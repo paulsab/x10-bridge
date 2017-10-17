@@ -1,0 +1,15 @@
+{
+  "name": "x10-bridge",
+  "version": "1.0.0",
+  "description": "X10 bridge for SmartThings ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Sabatino",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.2",
+    "node-ssdp": "~2.5.1"
+  }
+}
